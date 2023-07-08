@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GhangeReality
 - 👀 I’m interested in burn my music
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how the Preview is going on your changes and your ability to work with your website 
+- 💞️ I’m looking to collaborate on my synthesizers and my  studio
 - 📫 How to reach me ...
 
 <!---
